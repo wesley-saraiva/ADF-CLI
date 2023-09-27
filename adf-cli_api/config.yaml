@@ -2,7 +2,6 @@ name: Json Rest Server
 port: 8082
 host: 0.0.0.0
 database: database.json
-
 # auth:
 #   jwtSecret: cwsMXDtuP447WZQ63nM4dWZ3RppyMl
 #   jwtExpire: 3600
