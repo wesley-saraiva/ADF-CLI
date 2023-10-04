@@ -2,10 +2,11 @@
 
 import 'package:args/command_runner.dart';
 
-import '../../repositories/student_repository.dart';
+import '../../repositories/student_dio_repository.dart';
+// import '../../repositories/student_repository.dart';
 
 class FindByIdCommand extends Command {
-  final StudentRepository studentRepository;
+  final StudentDioRepository studentRepository;
 
   FindByIdCommand(this.studentRepository) {
     argParser.addOption('id', help: 'Student Id', abbr: 'i');
