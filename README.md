@@ -6,6 +6,7 @@ O ADF-CLI é totalmente feito em Dart, com servidor Json Rest Server que é Rest
 
 
 ![● README md - adf_cli - Visual Studio Code 2023-10-11 08-01-36](https://github.com/wesley-saraiva/ADF-CLI/assets/77674649/ebfcfe92-19ba-436e-b2de-790cd5ff2309)
+![localhost_8082_students e mais 5 páginas - Pessoal — Microsoft_ Edge 2023-10-11 08-12-48](https://github.com/wesley-saraiva/ADF-CLI/assets/77674649/a6e0b726-f15a-4449-9920-6901886ded06)
 
 ## Instalação
 
