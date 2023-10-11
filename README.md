@@ -28,11 +28,12 @@ Mais detalhes está disponivel no [Pub Dev](https://pub.dev/packages/json_rest_s
 
 > 📄 students.dart
 > Student é a classe principal do projeto que recebe todas as outras classes como atributos utlizando a herança. Ou seja ela é a classe pai e as outras são as filhas.
-> ![](students.dart%20.gif)
+
+![](students.dart%20.gif)
 
 > 📄 address.dart
->
-> ![](address.dart%20.gif)
+
+![](address.dart%20.gif)
 
 > 📄 city.dart
 > 📄 courses.dart
