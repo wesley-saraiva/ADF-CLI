@@ -4,14 +4,7 @@
 
 O ADF-CLI é totalmente feito em Dart, com servidor Json Rest Server que é RestFul server baseado em Json. E ainda o projeto possui metodos HTTP como Get,Post,Put,Delete que são as principais requisicoes de uma API.
 
-<!-- ### Todos os alunos e seus atributos disponiveis através do servidor do JRS
-
-<<<<<<< HEAD
-
 ## Instalação JRS(Json Rest Server)
-=======
-## Instalação
->>>>>>> ae35e392940528c6ecaa771e946e3016ffc56ce1
 
 Mac OS x & Linux
 
