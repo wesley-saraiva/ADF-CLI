@@ -1,34 +1,50 @@
-# Lab Alunos (ADF-CLI)
+# Lab Alunos (ADF-CLI) 👨‍🎓
 
 > O ADF-CLI é um sistema de cadastro de alunos da Academia do Flutter.
 
 O ADF-CLI é totalmente feito em Dart, com servidor Json Rest Server que é RestFul server baseado em Json. E ainda o projeto possui metodos HTTP como Get,Post,Put,Delete que são as principais requisicoes de uma API.
 
+<!-- ### Todos os alunos e seus atributos disponiveis através do servidor do JRS
 
+![](localhost_8082_students.gif) -->
 
-## Instalação
+## Instalação JRS(Json Rest Server)
 
 Mac OS x & Linux
 
 ```sh
-npm install --save
+dart pub global activate json_rest_server
 ```
 
 Windows:
 
 ```sh
-edit autoexec.bat
+dart pub global activate json_rest_server
 ```
+
+Mais detalhes está disponivel no [Pub Dev](https://pub.dev/packages/json_rest_server)
 
 ## Exemplo de uso
 
-Alguns exemplos que motivam as pessoas a utilizarem seu projeto ou que demostrasse que este é útil para alguma coisa. Divida esta parte em partes menores e se possivel coloque algum codico ou prints de telas.
+#### Iniciando servidor JRS ☝
+
+![](iniciar%20jrs.gif)
+
+#### Alunos cadastrados disponiveis através do JRS
+
+![](localhost_8082_students.gif)
+
+#### Encerrando servidor JRS 👇
+
+Use as teclas CTRL+C
+
+![](encerrar.gif)
 
 ### Ambiente de Desenvolvimento
 
 Descrever como instalar e preparar qualquer dependencia de desenvolvimento para seu projeto possa ser executado localmente a pessoas possam contribuir com o mesmo. Se possivel forneça as informações para diferentes plataformas como , Windows, Mac OS, Linux.
 
-### Historico de Atualizações
+<!-- ### Historico de Atualizações
 
 - 0.2.1
   - CHANGE:Atulização dos docs(O codico não foi alterado)
@@ -42,7 +58,7 @@ Descrever como instalar e preparar qualquer dependencia de desenvolvimento para 
   - CHANGE: Renomeado de `Projeto Curriculo Geek` para
     `Projeto Curriculo Online`
 - 0.0.1
-  - Projeto Inicial
+  - Projeto Inicial -->
 
 ### Meta
 
